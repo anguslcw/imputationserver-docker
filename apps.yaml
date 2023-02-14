@@ -1,0 +1,5 @@
+id: imputationserver
+url: https://github.com/anguslcw/imputationserver/releases/download/v1.2.0/imputationserver.zip
+---
+id: hapmap2
+url: https://imputationserver.sph.umich.edu/static/downloads/releases/hapmap2-2.0.0.zip
